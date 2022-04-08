@@ -1,4 +1,6 @@
 # Occam's Pipe
+![image](https://user-images.githubusercontent.com/75654428/162489979-7d94190e-f79d-4159-9498-943c45c6a887.png)
+
 Device for transferring particles between containers aboard the ISS. 
 
 ## Problem
