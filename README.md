@@ -21,7 +21,7 @@ Particles are hard to remove from bulk bags without excess spillage.
 
 ## Simplicity
 
-Our design implements a straightforward and simple solution to a problem pestering astronauts. Our design includes a very minute number of components, which drives down its susceptibility to failure, simplifies manufacturing, and is overall easier to use.
+Our design implements a straightforward and simple solution to a problem pestering astronauts. Our design includes a very low number of components, which drives down its susceptibility to failure, simplifies manufacturing, and is overall easier to use.
 
 
 ## Ease of manufacture
