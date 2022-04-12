@@ -26,6 +26,8 @@ Our design was created in such a way that all of the components used are easily 
 
 The attachment ports are an interface between a bag and an Occam's Pipe. It consists of a 3D printed cylinder and rubber flap. When a bag isn't accessed, the flap remains shut, but as soon as you push an Occam's Pipe through, it opens. 
 
+Attachment ports can be adhered to a container using spray adhesive or double sided tape.
+
 # Needed parts
 
 - 1" PVC pipe (can alternatively be 3D printed)
