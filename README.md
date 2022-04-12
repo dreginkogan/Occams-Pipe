@@ -7,14 +7,6 @@ Device for transferring particles between containers aboard the ISS.
 
 In order to get a large amount of small parts aboard the ISS, many plastic packages are sent, which contribute to the overall abundance of trash. It could potentially be more efficient to send everything within one large bag, but that presents a new problem. When you open it, all the small parts within it will start floating around the ISS and could get stuck in machinery and cause other unforsaken problems. 
 
-## Criteria
-
-- Controllable amount of particles being transferred
-- Has to be easily cleanable
-- Could be hand/battery powered
-- As easy to operate as possible
-
-
 # Design
 
 ## Simplicity
